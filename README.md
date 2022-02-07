@@ -1,7 +1,7 @@
 # Fast learning of fast transforms, with guarantees
 
-Code to reproduce experiments in "Fast learning of fast transforms, with guarantees" (Quoc-Tung Le, Léon Zheng, 
-Elisa Riccietti, Rémi Gribonval).
+Code to reproduce experiments in "Fast learning of fast transforms, with guarantees" (Quoc-Tung Le, Léon Zheng, Elisa Riccietti, Rémi Gribonval).
+Article is available at: https://hal.archives-ouvertes.fr/hal-03438881/. In the interest of reproducible research, this is exactly the version of the code used to generate the figures in the article. A copy of the repository is also available at: <Lien dépôt HAL du code>.
 
 ## Getting started
 Run the following command line to install the source code:
