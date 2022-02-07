@@ -1,10 +1,7 @@
 numpy~=1.21.2
-torch~=1.8.1+cu111
 pandas~=1.2.3
 pathlib~=1.0.1
 scipy~=1.6.2
 matplotlib~=3.4.0
 scikit-learn~=0.24.1
 argparse~=1.4.0
-pyfaust~=3.5.2
-setuptools~=52.0.0.post20210125
